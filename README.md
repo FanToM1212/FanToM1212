@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Koren Shpitzer, and I am a 2nd-year computer science student currently looking for a student job. I have experience working with a variety of programming languages, including C, C++, Python, and SQL.
+My name is Koren Shpitzer, and I have a computer science degree, currently learning Product manager at ProductGo!.
+I have experience working with a variety of programming languages, including C, C++, Python, and SQL.
 
 🔭 I’m currently working on learning new technologies and improving my skills.
 
